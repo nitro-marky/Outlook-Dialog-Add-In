@@ -1,0 +1,2 @@
+bin\Debug\OfficeAppManifests\OutlookWebAddIn4Manifest.xml
+C:\Users\mark.addis\source\repos\OutlookWebAddIn4\OutlookWebAddIn4\bin\Debug\OutlookWebAddIn4.debugapp
